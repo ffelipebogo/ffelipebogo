@@ -3,8 +3,8 @@
 
 <div align="center">
   <a href="https://github.com/ffelipebogo">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?sername=ffelipebogo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ffelipebogo&layout=compact&langs_count=7&theme=dracula"/>
+  [![Jailson GitHub stats](https://github-readme-stats.vercel.app/api?username=ffelipebogo)](https://github.com/ffelipebogo/github-readme-stats)
+  
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Jailson-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
